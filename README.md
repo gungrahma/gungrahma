@@ -12,13 +12,9 @@
 
 Frontend developer, Machine learning experiment
 
-- 🏢 大阪府にて、機械学習に関連する幅広い分野で活動しています
-- 🌱 現在、**Python**と**Laravel**を学習しています。
-- 💬 Web開発や機械学習について、お気軽にご質問ください。
-- ⚡ **Maimaiが大好きです。**
+- 🏢 Currently Internship at Prima Medika Hospital
+- 🌱 My Specialist is Frontend and Machine learning
+- ⚡ I play maimai
 
-## 技術スタック
-
-![技術スタック](https://img.shields.io/badge/技術スタック-333?style=for-the-badge&logo=machinelearning&logoColor=white) ![フロントエンド開発者](https://img.shields.io/badge/フロントエンド開発者-333?style=for-the-badge&logo=frontenddeveloper&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-333?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 </div>
