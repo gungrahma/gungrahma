@@ -4,7 +4,7 @@
 
 # Agung rahma
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend%20Developer;Python%2C%20Laravel;Based%20in%20Osaka%2C%20Japan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend%20Developer;Python%2C%20Laravel;Based%20in%20Denpasar%2C%20Bali)](https://git.io/typing-svg)
 
 </div>
 
