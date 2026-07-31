@@ -12,7 +12,6 @@
 
 Frontend developer, Machine learning experiment
 
-- Currently Internship at Prima Medika Hospital
 - My Specialist is Frontend and Machine learning
 - I play maimai
 
