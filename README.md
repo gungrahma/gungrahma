@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" alt="Waving hello">
 
-# Akita
+# Agung rahma
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Frontend+Developer;Machine+Learning+%26+AI+Explorer;Python+%26+Laravel;Based+in+Denpasar%2C+Bali)](https://git.io/typing-svg)
 
